@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\oop\3.1\Clock\bin\Debug\net6.0\Clock.exe
+C:\Users\Kevin\Desktop\oop\3.1\Clock\bin\Debug\net6.0\Clock.deps.json
+C:\Users\Kevin\Desktop\oop\3.1\Clock\bin\Debug\net6.0\Clock.runtimeconfig.json
+C:\Users\Kevin\Desktop\oop\3.1\Clock\bin\Debug\net6.0\Clock.dll
+C:\Users\Kevin\Desktop\oop\3.1\Clock\bin\Debug\net6.0\Clock.pdb
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.dll
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\refint\Clock.dll
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.pdb
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\Clock.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\oop\3.1\Clock\obj\Debug\net6.0\ref\Clock.dll
