@@ -1,0 +1,14 @@
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\bin\Debug\net6.0\Shape Drawing.exe
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\bin\Debug\net6.0\Shape Drawing.deps.json
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\bin\Debug\net6.0\Shape Drawing.runtimeconfig.json
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\bin\Debug\net6.0\Shape Drawing.dll
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\bin\Debug\net6.0\Shape Drawing.pdb
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.dll
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\refint\Shape Drawing.dll
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.pdb
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\Shape Drawing.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\oop\3.3\Shape Drawing\obj\Debug\net6.0\ref\Shape Drawing.dll
